@@ -1,0 +1,7 @@
+Debug:
+
+./gradlew clean build --refresh-dependencies --info
+
+Normal:
+
+./gradlew clean build
